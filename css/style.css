@@ -1,0 +1,22 @@
+.header , .firstgrid, .fourthgrid, .bar, .footer{
+	background-color: grey;
+	margin-bottom: 5px;
+	
+}
+.text{
+	color: white;
+	text-align: center;
+	
+}
+.box{
+	min-height: 100px;
+	background-color: teal;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 5px;
+	border: 2px solid white;
+
+}
+.gold{
+	background-color: gold;
+}
